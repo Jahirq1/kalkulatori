@@ -16,7 +16,7 @@ public class Main {
             System.out.println("6. funksionet e memories");
 
             System.out.println("7. Dil");
-            System.out.print("zgjidhni nje nga opsionet (1/2/3/4/5/6/7");
+            System.out.print("zgjidhni nje nga opsionet (1/2/3/4/5/6/7) ");
             int zgjidhni = sc.nextInt();
             if (zgjidhni == 7) {
                 System.out.println("Dolet nga kalkulatori ");
